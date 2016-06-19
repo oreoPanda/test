@@ -1,0 +1,14 @@
+- clone onebyone (a .gitignore, a folder called onebyone containing the code)
+- create new windows game project and close visual studio
+- copy the windows game project into the repository (so that the onebyone folder is merged. all files should be replaced except for Game1.cs)
+- double-click the project file to open visual studio, work on the code
+- run the usual git commands to add, commit and push changes
+
+--no USB flashdrives needed--
+
+--everyone has to be careful about not replacing Game1.cs in the repository with the empty one from the newly-created project--
+
+--in case something goes wrong, a backup should be stored inside a second repository at the end of each lesson--
+
+--alternative: niklas has the project on his flashdrive, distributes it via the share folder, since all changes are written together, nobody has to send him anything
+    once we start working on different enemies, every enemy can have one class. Those classes can be stored on github, everybody just copies his updates into his class at the end of each lesson (or niklas has class originals, distributes them via share folder, at the end of lesson the classes are sent back to him via the share folder)--
